@@ -75,7 +75,7 @@ button {
 }
 
 .banner{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("images/background.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("background.jpg");
   height: 100vh;
   background-size: cover;
   color: White;
